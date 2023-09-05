@@ -1,7 +1,7 @@
-## 42 stats:
+## 42 Stats:
 [![Lewlee's 42 stats](https://badge.mediaplus.ma/darkblue/Lewlee?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-## currently learning:
+## Currently Learning:
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,bash,git,linux,vim,vscode&perline=15)](https://skillicons.dev)
 <!--
 **lewislee42/lewislee42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
