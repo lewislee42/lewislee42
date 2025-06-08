@@ -1,16 +1,5 @@
 ## Hi there 👋
-<div flex=true>
-  
-<div>
-  Hi, I'm lewis. I'm an aspiring Programmer that (almost) graduated from 42KL, and I'm passionate about exploring the different fields in Programming, Currently I am exploring Game Development & Graphics Programming
-</div>
-<div>
-  
-[![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewislee42&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-</div>
-
-
+Hi, I'm lewis. I'm an aspiring Programmer that (almost) graduated from 42KL, and I'm passionate about exploring the different fields in Programming, Currently I am exploring Game Development & Graphics Programming
 <br/>
 
 ## 🌱 I’m Currently Learning
@@ -20,7 +9,6 @@
 <a href="https://github.com/lewislee42/RayTracer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewislee42&repo=RayTracer&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
-
 <br/>
 <br/>
 
@@ -30,6 +18,9 @@
 ## 🛠️ Tools I've Used
 [![My Skills](https://skillicons.dev/icons?i=docker,godot,unity,mysql,postgres,django,nestjs,nextjs,react,nginx&perline=15)](https://skillicons.dev)
 
+
+## 📊 Github Stats
+[![Lewis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lewislee42&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lewislee42/lewislee42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
