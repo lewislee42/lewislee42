@@ -3,7 +3,7 @@ Hi, I'm Lewis. I'm an aspiring Programmer that (almost) graduated from 42KL, and
 <br/>
 <br/>
 
-## 🌱 I’m Currently Learning
+## 🌱 I’m Currently Learning/Working on
 <a href="https://github.com/lewislee42/RayLibGame">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewislee42&repo=RayLibGame&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
