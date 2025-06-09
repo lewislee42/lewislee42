@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I'm Lewis. I'm an aspiring Programmer that (almost) graduated from 42KL, and I'm passionate about exploring the different fields in Programming, Currently I am exploring Game Development & Graphics Programming
+Hi, I'm Lewis. I'm an aspiring Programmer that graduated from 42KL, and I'm passionate about exploring the different fields in Programming, Currently I am exploring Game Development & Graphics Programming
 <br/>
 <br/>
 
