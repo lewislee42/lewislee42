@@ -4,11 +4,8 @@ Hi, I'm Lewis. I'm an aspiring Programmer that graduated from 42KL, and I'm pass
 <br/>
 
 ## 🌱 I’m Currently Learning/Working on
-<a href="https://github.com/lewislee42/RayLibGame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewislee42&repo=RayLibGame&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
 <a href="https://github.com/lewislee42/RayTracer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lewislee42&repo=RayTracer&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=lewislee42&repo=RayTracer&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" style="max-width: 100%;"/>
 </a>
 <br/>
 <br/>
